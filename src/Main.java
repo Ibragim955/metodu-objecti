@@ -19,5 +19,5 @@ public class Main {
                 name.setAge(2000);
                 System.out.println("name.getAge() = " + name.getAge());
             }
-
+//щщщ
         }
